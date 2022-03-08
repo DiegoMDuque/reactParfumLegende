@@ -5,8 +5,8 @@ import Blank from './pages/Blank'
 import Dashboard from './pages/Dashboard'
 import MainLayout from './layout/MainLayout'
 import UsersApi from './components/Api/UsersApi' 
-import UsersApi from './components/Api/ProductsApi' 
-import UsersApi from './components/Api/CategoriesApi' 
+import ProductsApi from './components/Api/ProductsApi' 
+import CategoriesApi from './components/Api/CategoriesApi' 
 
 function App() {
     return (
